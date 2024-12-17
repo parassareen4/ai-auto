@@ -1,9 +1,13 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/python
-# Edit at https://www.toptal.com/developers/gitignore?templates=python
 
-node_modules
 .env
+
+# dependencies
+node_modules
+/.pnp
+.pnp.js
+.idea
+# testing
 .env.local
 .env.development.local
 .env.test.local
