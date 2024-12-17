@@ -1,0 +1,42 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Runtime data
+*.pid
+*.seed
+*.log
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.iml
+*.sw?
+
+# Build files
+dist/
+build/
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Hugging Face API Key (if saved locally)
+huggingface_api_key.txt
